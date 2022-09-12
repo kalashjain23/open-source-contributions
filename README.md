@@ -1,2 +1,7 @@
-# open-source-contributions
-My open-source contributions summarized. (Code / Non-Code)
+# My Contributions
+
+- <strong>commclassroom</strong> <br>
+<a href = "https://github.com/commclassroom/roadmaps/pull/37">Lists rearranged alphabetically.</a> #37
+
+- <strong>freecodecamp</strong> <br>
+<a href = "https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/37">Added a CS question in full-quiz.js</a> #37
