@@ -1,15 +1,16 @@
 # My Contributions
 
-- <strong>commclassroom</strong> <br>
-<a href = "https://github.com/commclassroom/roadmaps/pull/37">Lists rearranged alphabetically.</a>
+- <strong>commclassroom</strong>  
+[Lists rearranged alphabetically](https://github.com/commclassroom/roadmaps/pull/37)
 
-- <strong>freecodecamp</strong> <br>
-<a href = "https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/37">Added a CS question in full-quiz.js</a><br>
-<a href = "https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/99">Added a CS question in full-quiz.js</a><br>
-<a href = "https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/125">Added a question in python-quiz.ts</a>
+- <strong>freecodecamp</strong>  
+[Added a CS question in full-quiz.js](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/37)  
+[Added a CS question in full-quiz.js](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/99)  
+[Added a question in python-quiz.ts](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/125)  
+[Added questions in python-quiz.ts](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/230)
 
-- <strong>ykdojo</strong> <br>
-<a href = "https://github.com/ykdojo/active-repos-for-contributing/pull/20">docs: add freeCodeCamp's project</a>
+- <strong>ykdojo</strong>  
+[docs: add freeCodeCamp's project](https://github.com/ykdojo/active-repos-for-contributing/pull/20)
 
-- <strong>pysh</strong><br>
-<a href = "https://github.com/smv1999/pysh/pull/5">Adding a command to search for a pattern in a file/standard input</a> {Code}
+- <strong>pysh</strong>  
+[Adding a command to search for a pattern in a file/standard input](https://github.com/smv1999/pysh/pull/5)
